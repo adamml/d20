@@ -1,6 +1,8 @@
 # d20
 
-A re-implempentation of @opensourcedoc's d20 follwing @skeeto's minimalist C library principles.
+A re-implempentation of [@opensourcedoc](https://github.com/opensourcedoc)'s [d20](https://github.com/opensourcedoc/d20-c) follwing [@skeeto](https://github.com/skeeto)'s [minimalist C library](https://nullprogram.com/blog/2018/06/10/) principles.
+
+__TODO__: Implement FATE dice
 
 ## Dependencies
 
